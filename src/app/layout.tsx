@@ -1,6 +1,6 @@
-import type { Metadata } from "next";
-import "./globals.css";
-import { geistSans, geistMono } from "@/ui/fonts";
+import type { Metadata } from 'next';
+import './globals.css';
+import { geistSans, geistMono } from '@/ui/fonts';
 
 export const metadata: Metadata = {
   title: "melvinkampus.ch",
