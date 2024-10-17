@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ac66118 (Resolved)
 import type { Metadata } from 'next';
 import './globals.css';
 import { geistSans, geistMono } from '@/ui/fonts';
